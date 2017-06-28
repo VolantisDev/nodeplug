@@ -1,0 +1,9 @@
+{
+  "name": "nodeplug",
+  "version": "0.0.1",
+  "description": "A pluggable web interface to configure your Raspberry Pi",
+  "author": "Ben McClure <ben.mcclure@gmail.com>",
+  "license": "Unlicense",
+  "scripts": {
+  }
+}
