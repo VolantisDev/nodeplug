@@ -68,12 +68,6 @@ glob@^7.0.0:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-global-npm@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/global-npm/-/global-npm-0.3.0.tgz#7c5115394a677d1245c4e3ba0b78bb6752797ee0"
-  dependencies:
-    which "^1.2.1"
-
 happened@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/happened/-/happened-1.0.0.tgz#1bc34bc2cfc2a2eb7cafd6c7f741479e1800a76e"
@@ -98,10 +92,6 @@ inherits@2:
 interpret@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.0.3.tgz#cbc35c62eeee73f19ab7b10a801511401afc0f90"
-
-isexe@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
 
 log-symbols@^1.0.2:
   version "1.0.2"
@@ -198,12 +188,6 @@ tennu-plugins@^4.0.0-b4:
   resolved "https://registry.yarnpkg.com/tennu-plugins/-/tennu-plugins-4.0.0-b4.tgz#78db369f121947255a3cc70b66fd7d440daae10b"
   dependencies:
     r-result "^1.4.0"
-
-which@^1.2.1:
-  version "1.2.14"
-  resolved "https://registry.yarnpkg.com/which/-/which-1.2.14.tgz#9a87c4378f03e827cecaf1acdf56c736c01c14e5"
-  dependencies:
-    isexe "^2.0.0"
 
 wrappy@1:
   version "1.0.2"
